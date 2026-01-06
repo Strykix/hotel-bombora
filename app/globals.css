@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #1a4d3e;
+  --primary-light: #2d6a5a;
+  --secondary: #c9a96e;
+  --secondary-light: #d4bc8a;
+  --accent: #f4f1ea;
+  --dark: #1c1c1c;
+  --light: #ffffff;
+  --text: #333333;
+  --text-light: #666666;
+  --text-muted: #999999;
+}
+
+@layer base {
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+    width: 100%;
+  }
+
+  body {
+    @apply font-sans text-gray-800 antialiased;
+    overflow-x: hidden;
+    width: 100%;
+    min-width: 0;
+    position: relative;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif;
+  }
+
+  /* Prevent any element from causing horizontal overflow */
+  img, video, iframe {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+@layer components {
+  .section-padding {
+    @apply py-12 md:py-20 lg:py-28;
+  }
+
+  .container-custom {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center justify-center px-6 py-3 md:px-8 md:py-4 bg-primary text-white font-medium
+           rounded-none hover:bg-primary-light transition-all duration-300
+           tracking-wide uppercase text-xs md:text-sm min-h-[48px];
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center px-6 py-3 md:px-8 md:py-4 bg-transparent
+           border-2 border-white text-white font-medium rounded-none
+           hover:bg-white hover:text-primary transition-all duration-300
+           tracking-wide uppercase text-xs md:text-sm min-h-[48px];
+  }
+
+  .btn-outline {
+    @apply inline-flex items-center justify-center px-6 py-3 md:px-8 md:py-4 bg-transparent
+           border-2 border-primary text-primary font-medium rounded-none
+           hover:bg-primary hover:text-white transition-all duration-300
+           tracking-wide uppercase text-xs md:text-sm min-h-[48px];
+  }
+
+  .text-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-primary to-primary-light;
+  }
+
+  .overlay-gradient {
+    @apply absolute inset-0 bg-gradient-to-b from-black/60 via-black/40 to-black/60;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--primary);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--primary-light);
+}
+
+/* Selection */
+::selection {
+  background-color: var(--secondary);
+  color: var(--dark);
+}

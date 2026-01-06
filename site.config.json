@@ -1,0 +1,453 @@
+{
+  "hotelName": "Bombora",
+  "slug": "bombora",
+  "template": "tropical",
+  "data": {
+    "name": "Bombora",
+    "zone": "Hiriketiya",
+    "phone": "077 280 6870",
+    "booking_url": "https://www.booking.com/searchresults.html?ss=Bombora+Sri+Lanka",
+    "booking_search": "https://www.booking.com/searchresults.html?ss=Bombora+Sri+Lanka",
+    "instagram": "",
+    "google_maps_url": "https://maps.google.com/?cid=18091994327716626735&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "rating": 4.5,
+    "reviews_count": 44,
+    "address": "Hirikeitya Beach, Hiriketiya Rd, Dikwella 81200, Sri Lanka"
+  },
+  "options": {
+    "static": true,
+    "skipPhotos": false,
+    "deploy": true
+  },
+  "content": {
+    "siteSettings": {
+      "name": "Bombora",
+      "tagline": "Your escape in Hiriketiya, Sri Lanka",
+      "contact": {
+        "phone": "077 280 6870",
+        "whatsapp": "0772806870",
+        "email": "info@bombora.com",
+        "address": "Hirikeitya Beach, Hiriketiya Rd, Dikwella 81200, Sri Lanka"
+      },
+      "booking": {
+        "url": "https://www.booking.com/searchresults.html?ss=Bombora+Sri+Lanka",
+        "buttonText": "Book Now"
+      },
+      "social": {
+        "instagram": "",
+        "googleMaps": "https://maps.google.com/?cid=18091994327716626735&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "seo": {
+        "title": "Bombora | Beachfront Hotel in Hiriketiya, Sri Lanka",
+        "description": "Experience paradise at Bombora. Steps from the beach Hiriketiya, Sri Lanka. Perfect for surfers and beach lovers."
+      },
+      "mainImage": "/images/hotel/photo-01.jpg"
+    },
+    "homepage": {
+      "hero": {
+        "title": "Welcome to Bombora",
+        "subtitle": "Your beachfront escape in Hiriketiya",
+        "ctaText": "Book Your Stay",
+        "ctaUrl": "https://www.booking.com/searchresults.html?ss=Bombora+Sri+Lanka",
+        "backgroundImage": "/images/hotel/photo-01.jpg"
+      },
+      "about": {
+        "title": "About Us",
+        "description": "Nestled along the beautiful coast of Hiriketiya, Bombora offers an unforgettable experience in Sri Lanka's southern coast. Whether you're here for world-class surf breaks or simply to unwind by the ocean, we provide the perfect blend of comfort and authentic Sri Lankan hospitality.",
+        "image": "/images/hotel/photo-02.jpg"
+      },
+      "features": [
+        {
+          "title": "Beachfront Location",
+          "description": "Steps away from pristine sandy beaches",
+          "icon": "location"
+        },
+        {
+          "title": "Local Experience",
+          "description": "Immerse yourself in authentic Sri Lankan culture and cuisine",
+          "icon": "culture"
+        },
+        {
+          "title": "Surf Paradise",
+          "description": "Access to world-renowned surf breaks",
+          "icon": "surf"
+        }
+      ],
+      "gallery": {
+        "title": "Gallery",
+        "subtitle": "Discover our paradise",
+        "images": [
+          {
+            "src": "/images/hotel/photo-01.jpg",
+            "alt": "Bombora - Photo 1",
+            "caption": "Bombora"
+          },
+          {
+            "src": "/images/hotel/photo-02.jpg",
+            "alt": "Bombora - Photo 2",
+            "caption": "Bombora - Vue 2"
+          },
+          {
+            "src": "/images/hotel/photo-03.jpg",
+            "alt": "Bombora - Photo 3",
+            "caption": "Bombora - Vue 3"
+          },
+          {
+            "src": "/images/hotel/photo-04.jpg",
+            "alt": "Bombora - Photo 4",
+            "caption": "Bombora - Vue 4"
+          },
+          {
+            "src": "/images/hotel/photo-05.jpg",
+            "alt": "Bombora - Photo 5",
+            "caption": "Bombora - Vue 5"
+          },
+          {
+            "src": "/images/hotel/photo-06.jpg",
+            "alt": "Bombora - Photo 6",
+            "caption": "Bombora - Vue 6"
+          },
+          {
+            "src": "/images/hotel/photo-07.jpg",
+            "alt": "Bombora - Photo 7",
+            "caption": "Bombora - Vue 7"
+          },
+          {
+            "src": "/images/hotel/photo-08.jpg",
+            "alt": "Bombora - Photo 8",
+            "caption": "Bombora - Vue 8"
+          },
+          {
+            "src": "/images/hotel/photo-09.jpg",
+            "alt": "Bombora - Photo 9",
+            "caption": "Bombora - Vue 9"
+          },
+          {
+            "src": "/images/hotel/photo-10.jpg",
+            "alt": "Bombora - Photo 10",
+            "caption": "Bombora - Vue 10"
+          },
+          {
+            "src": "/images/hotel/photo-11.jpg",
+            "alt": "Bombora - Photo 11",
+            "caption": "Bombora - Vue 11"
+          },
+          {
+            "src": "/images/hotel/photo-12.jpg",
+            "alt": "Bombora - Photo 12",
+            "caption": "Bombora - Vue 12"
+          },
+          {
+            "src": "/images/hotel/photo-13.jpg",
+            "alt": "Bombora - Photo 13",
+            "caption": "Bombora - Vue 13"
+          },
+          {
+            "src": "/images/hotel/photo-14.jpg",
+            "alt": "Bombora - Photo 14",
+            "caption": "Bombora - Vue 14"
+          },
+          {
+            "src": "/images/hotel/photo-15.jpg",
+            "alt": "Bombora - Photo 15",
+            "caption": "Bombora - Vue 15"
+          },
+          {
+            "src": "/images/hotel/photo-16.jpg",
+            "alt": "Bombora - Photo 16",
+            "caption": "Bombora - Vue 16"
+          },
+          {
+            "src": "/images/hotel/photo-17.jpg",
+            "alt": "Bombora - Photo 17",
+            "caption": "Bombora - Vue 17"
+          },
+          {
+            "src": "/images/hotel/photo-18.jpg",
+            "alt": "Bombora - Photo 18",
+            "caption": "Bombora - Vue 18"
+          },
+          {
+            "src": "/images/hotel/photo-19.jpg",
+            "alt": "Bombora - Photo 19",
+            "caption": "Bombora - Vue 19"
+          },
+          {
+            "src": "/images/hotel/photo-20.webp",
+            "alt": "Bombora - Photo 20",
+            "caption": "Bombora - Vue 20"
+          },
+          {
+            "src": "/images/hotel/photo-21.jpg",
+            "alt": "Bombora - Photo 21",
+            "caption": "Bombora - Vue 21"
+          },
+          {
+            "src": "/images/hotel/photo-22.jpg",
+            "alt": "Bombora - Photo 22",
+            "caption": "Bombora - Vue 22"
+          },
+          {
+            "src": "/images/hotel/photo-23.jpg",
+            "alt": "Bombora - Photo 23",
+            "caption": "Bombora - Vue 23"
+          },
+          {
+            "src": "/images/hotel/photo-24.jpg",
+            "alt": "Bombora - Photo 24",
+            "caption": "Bombora - Vue 24"
+          },
+          {
+            "src": "/images/hotel/photo-25.jpg",
+            "alt": "Bombora - Photo 25",
+            "caption": "Bombora - Vue 25"
+          },
+          {
+            "src": "/images/hotel/photo-26.jpg",
+            "alt": "Bombora - Photo 26",
+            "caption": "Bombora - Vue 26"
+          },
+          {
+            "src": "/images/hotel/photo-27.jpg",
+            "alt": "Bombora - Photo 27",
+            "caption": "Bombora - Vue 27"
+          },
+          {
+            "src": "/images/hotel/photo-28.jpg",
+            "alt": "Bombora - Photo 28",
+            "caption": "Bombora - Vue 28"
+          },
+          {
+            "src": "/images/hotel/photo-29.jpg",
+            "alt": "Bombora - Photo 29",
+            "caption": "Bombora - Vue 29"
+          },
+          {
+            "src": "/images/hotel/photo-30.jpg",
+            "alt": "Bombora - Photo 30",
+            "caption": "Bombora - Vue 30"
+          },
+          {
+            "src": "/images/hotel/photo-31.jpg",
+            "alt": "Bombora - Photo 31",
+            "caption": "Bombora - Vue 31"
+          },
+          {
+            "src": "/images/hotel/photo-32.jpg",
+            "alt": "Bombora - Photo 32",
+            "caption": "Bombora - Vue 32"
+          }
+        ]
+      },
+      "cta": {
+        "title": "Ready for Paradise?",
+        "description": "Book your stay at Bombora and discover the magic of Hiriketiya.",
+        "buttonText": "Check Availability",
+        "buttonUrl": "https://www.booking.com/searchresults.html?ss=Bombora+Sri+Lanka",
+        "backgroundImage": "/images/hotel/photo-32.jpg"
+      }
+    },
+    "footer": {
+      "copyright": "2026 Bombora. All rights reserved.",
+      "address": "Hirikeitya Beach, Hiriketiya Rd, Dikwella 81200, Sri Lanka",
+      "phone": "077 280 6870"
+    },
+    "gallery": [
+      {
+        "src": "/images/hotel/photo-01.jpg",
+        "alt": "Bombora - Photo 1",
+        "caption": "Bombora"
+      },
+      {
+        "src": "/images/hotel/photo-02.jpg",
+        "alt": "Bombora - Photo 2",
+        "caption": "Bombora - Vue 2"
+      },
+      {
+        "src": "/images/hotel/photo-03.jpg",
+        "alt": "Bombora - Photo 3",
+        "caption": "Bombora - Vue 3"
+      },
+      {
+        "src": "/images/hotel/photo-04.jpg",
+        "alt": "Bombora - Photo 4",
+        "caption": "Bombora - Vue 4"
+      },
+      {
+        "src": "/images/hotel/photo-05.jpg",
+        "alt": "Bombora - Photo 5",
+        "caption": "Bombora - Vue 5"
+      },
+      {
+        "src": "/images/hotel/photo-06.jpg",
+        "alt": "Bombora - Photo 6",
+        "caption": "Bombora - Vue 6"
+      },
+      {
+        "src": "/images/hotel/photo-07.jpg",
+        "alt": "Bombora - Photo 7",
+        "caption": "Bombora - Vue 7"
+      },
+      {
+        "src": "/images/hotel/photo-08.jpg",
+        "alt": "Bombora - Photo 8",
+        "caption": "Bombora - Vue 8"
+      },
+      {
+        "src": "/images/hotel/photo-09.jpg",
+        "alt": "Bombora - Photo 9",
+        "caption": "Bombora - Vue 9"
+      },
+      {
+        "src": "/images/hotel/photo-10.jpg",
+        "alt": "Bombora - Photo 10",
+        "caption": "Bombora - Vue 10"
+      },
+      {
+        "src": "/images/hotel/photo-11.jpg",
+        "alt": "Bombora - Photo 11",
+        "caption": "Bombora - Vue 11"
+      },
+      {
+        "src": "/images/hotel/photo-12.jpg",
+        "alt": "Bombora - Photo 12",
+        "caption": "Bombora - Vue 12"
+      },
+      {
+        "src": "/images/hotel/photo-13.jpg",
+        "alt": "Bombora - Photo 13",
+        "caption": "Bombora - Vue 13"
+      },
+      {
+        "src": "/images/hotel/photo-14.jpg",
+        "alt": "Bombora - Photo 14",
+        "caption": "Bombora - Vue 14"
+      },
+      {
+        "src": "/images/hotel/photo-15.jpg",
+        "alt": "Bombora - Photo 15",
+        "caption": "Bombora - Vue 15"
+      },
+      {
+        "src": "/images/hotel/photo-16.jpg",
+        "alt": "Bombora - Photo 16",
+        "caption": "Bombora - Vue 16"
+      },
+      {
+        "src": "/images/hotel/photo-17.jpg",
+        "alt": "Bombora - Photo 17",
+        "caption": "Bombora - Vue 17"
+      },
+      {
+        "src": "/images/hotel/photo-18.jpg",
+        "alt": "Bombora - Photo 18",
+        "caption": "Bombora - Vue 18"
+      },
+      {
+        "src": "/images/hotel/photo-19.jpg",
+        "alt": "Bombora - Photo 19",
+        "caption": "Bombora - Vue 19"
+      },
+      {
+        "src": "/images/hotel/photo-20.webp",
+        "alt": "Bombora - Photo 20",
+        "caption": "Bombora - Vue 20"
+      },
+      {
+        "src": "/images/hotel/photo-21.jpg",
+        "alt": "Bombora - Photo 21",
+        "caption": "Bombora - Vue 21"
+      },
+      {
+        "src": "/images/hotel/photo-22.jpg",
+        "alt": "Bombora - Photo 22",
+        "caption": "Bombora - Vue 22"
+      },
+      {
+        "src": "/images/hotel/photo-23.jpg",
+        "alt": "Bombora - Photo 23",
+        "caption": "Bombora - Vue 23"
+      },
+      {
+        "src": "/images/hotel/photo-24.jpg",
+        "alt": "Bombora - Photo 24",
+        "caption": "Bombora - Vue 24"
+      },
+      {
+        "src": "/images/hotel/photo-25.jpg",
+        "alt": "Bombora - Photo 25",
+        "caption": "Bombora - Vue 25"
+      },
+      {
+        "src": "/images/hotel/photo-26.jpg",
+        "alt": "Bombora - Photo 26",
+        "caption": "Bombora - Vue 26"
+      },
+      {
+        "src": "/images/hotel/photo-27.jpg",
+        "alt": "Bombora - Photo 27",
+        "caption": "Bombora - Vue 27"
+      },
+      {
+        "src": "/images/hotel/photo-28.jpg",
+        "alt": "Bombora - Photo 28",
+        "caption": "Bombora - Vue 28"
+      },
+      {
+        "src": "/images/hotel/photo-29.jpg",
+        "alt": "Bombora - Photo 29",
+        "caption": "Bombora - Vue 29"
+      },
+      {
+        "src": "/images/hotel/photo-30.jpg",
+        "alt": "Bombora - Photo 30",
+        "caption": "Bombora - Vue 30"
+      },
+      {
+        "src": "/images/hotel/photo-31.jpg",
+        "alt": "Bombora - Photo 31",
+        "caption": "Bombora - Vue 31"
+      },
+      {
+        "src": "/images/hotel/photo-32.jpg",
+        "alt": "Bombora - Photo 32",
+        "caption": "Bombora - Vue 32"
+      }
+    ]
+  },
+  "photos": [
+    "photo-01.jpg",
+    "photo-02.jpg",
+    "photo-03.jpg",
+    "photo-04.jpg",
+    "photo-05.jpg",
+    "photo-06.jpg",
+    "photo-07.jpg",
+    "photo-08.jpg",
+    "photo-09.jpg",
+    "photo-10.jpg",
+    "photo-11.jpg",
+    "photo-12.jpg",
+    "photo-13.jpg",
+    "photo-14.jpg",
+    "photo-15.jpg",
+    "photo-16.jpg",
+    "photo-17.jpg",
+    "photo-18.jpg",
+    "photo-19.jpg",
+    "photo-20.webp",
+    "photo-21.jpg",
+    "photo-22.jpg",
+    "photo-23.jpg",
+    "photo-24.jpg",
+    "photo-25.jpg",
+    "photo-26.jpg",
+    "photo-27.jpg",
+    "photo-28.jpg",
+    "photo-29.jpg",
+    "photo-30.jpg",
+    "photo-31.jpg",
+    "photo-32.jpg"
+  ],
+  "generatedAt": "2026-01-06T13:27:32.918Z"
+}
