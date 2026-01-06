@@ -9,7 +9,7 @@
       "address": "Hirikeitya Beach, Hiriketiya Rd, Dikwella 81200, Sri Lanka"
     },
     "booking": {
-      "url": "https://www.booking.com/searchresults.html?ss=Bombora+Sri+Lanka",
+      "url": "https://www.booking.com/hotel/lk/bombora.html",
       "buttonText": "Book Now"
     },
     "social": {
@@ -27,7 +27,7 @@
       "title": "Welcome to Bombora",
       "subtitle": "Your beachfront escape in Hiriketiya",
       "ctaText": "Book Your Stay",
-      "ctaUrl": "https://www.booking.com/searchresults.html?ss=Bombora+Sri+Lanka",
+      "ctaUrl": "https://www.booking.com/hotel/lk/bombora.html",
       "backgroundImage": "/images/hotel/photo-01.jpg"
     },
     "about": {
@@ -222,7 +222,7 @@
       "title": "Ready for Paradise?",
       "description": "Book your stay at Bombora and discover the magic of Hiriketiya.",
       "buttonText": "Check Availability",
-      "buttonUrl": "https://www.booking.com/searchresults.html?ss=Bombora+Sri+Lanka",
+      "buttonUrl": "https://www.booking.com/hotel/lk/bombora.html",
       "backgroundImage": "/images/hotel/photo-32.jpg"
     }
   },
