@@ -1,0 +1,176 @@
+{
+  "siteSettings": {
+    "name": "Bombora",
+    "tagline": "Your escape in Hiriketiya, Sri Lanka",
+    "contact": {
+      "phone": "077 280 6870",
+      "whatsapp": "94772806870",
+      "email": "info@bombora.com",
+      "address": "Hirikeitya Beach, Hiriketiya Rd, Dikwella 81200, Sri Lanka"
+    },
+    "booking": {
+      "url": "https://www.booking.com/hotel/lk/the-yard-hiriketiya.html",
+      "buttonText": "Book Now"
+    },
+    "social": {
+      "instagram": "",
+      "googleMaps": "https://maps.google.com/?cid=18091994327716626735&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+    },
+    "seo": {
+      "title": "Bombora | Beachfront Hotel in Hiriketiya, Sri Lanka",
+      "description": "Experience paradise at Bombora. Steps from the beach Hiriketiya, Sri Lanka. Perfect for surfers and beach lovers."
+    },
+    "mainImage": "/images/hotel/photo-01.jpg"
+  },
+  "homepage": {
+    "hero": {
+      "title": "Welcome to Bombora",
+      "subtitle": "Your beachfront escape in Hiriketiya",
+      "ctaText": "Book Your Stay",
+      "ctaUrl": "https://www.booking.com/hotel/lk/the-yard-hiriketiya.html",
+      "backgroundImage": "/images/hotel/photo-01.jpg"
+    },
+    "about": {
+      "title": "About Us",
+      "description": "Nestled along the beautiful coast of Hiriketiya, Bombora offers an unforgettable experience in Sri Lanka's southern coast. Whether you're here for world-class surf breaks or simply to unwind by the ocean, we provide the perfect blend of comfort and authentic Sri Lankan hospitality.",
+      "image": "/images/hotel/photo-02.jpg"
+    },
+    "features": [
+      {
+        "title": "Beachfront Location",
+        "description": "Steps away from pristine sandy beaches",
+        "icon": "location"
+      },
+      {
+        "title": "Local Experience",
+        "description": "Immerse yourself in authentic Sri Lankan culture and cuisine",
+        "icon": "culture"
+      },
+      {
+        "title": "Surf Paradise",
+        "description": "Access to world-renowned surf breaks",
+        "icon": "surf"
+      }
+    ],
+    "gallery": {
+      "title": "Gallery",
+      "subtitle": "Discover our paradise",
+      "images": [
+        {
+          "src": "/images/hotel/photo-01.jpg",
+          "alt": "Bombora - Photo 1",
+          "caption": "Bombora"
+        },
+        {
+          "src": "/images/hotel/photo-02.jpg",
+          "alt": "Bombora - Photo 2",
+          "caption": "Bombora - Vue 2"
+        },
+        {
+          "src": "/images/hotel/photo-03.jpg",
+          "alt": "Bombora - Photo 3",
+          "caption": "Bombora - Vue 3"
+        },
+        {
+          "src": "/images/hotel/photo-04.jpg",
+          "alt": "Bombora - Photo 4",
+          "caption": "Bombora - Vue 4"
+        },
+        {
+          "src": "/images/hotel/photo-05.jpg",
+          "alt": "Bombora - Photo 5",
+          "caption": "Bombora - Vue 5"
+        },
+        {
+          "src": "/images/hotel/photo-06.jpg",
+          "alt": "Bombora - Photo 6",
+          "caption": "Bombora - Vue 6"
+        },
+        {
+          "src": "/images/hotel/photo-07.jpg",
+          "alt": "Bombora - Photo 7",
+          "caption": "Bombora - Vue 7"
+        },
+        {
+          "src": "/images/hotel/photo-08.jpg",
+          "alt": "Bombora - Photo 8",
+          "caption": "Bombora - Vue 8"
+        },
+        {
+          "src": "/images/hotel/photo-09.jpg",
+          "alt": "Bombora - Photo 9",
+          "caption": "Bombora - Vue 9"
+        },
+        {
+          "src": "/images/hotel/photo-10.jpg",
+          "alt": "Bombora - Photo 10",
+          "caption": "Bombora - Vue 10"
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready for Paradise?",
+      "description": "Book your stay at Bombora and discover the magic of Hiriketiya.",
+      "buttonText": "Check Availability",
+      "buttonUrl": "https://www.booking.com/hotel/lk/the-yard-hiriketiya.html",
+      "backgroundImage": "/images/hotel/photo-10.jpg"
+    }
+  },
+  "footer": {
+    "copyright": "2026 Bombora. All rights reserved.",
+    "address": "Hirikeitya Beach, Hiriketiya Rd, Dikwella 81200, Sri Lanka",
+    "phone": "077 280 6870"
+  },
+  "gallery": [
+    {
+      "src": "/images/hotel/photo-01.jpg",
+      "alt": "Bombora - Photo 1",
+      "caption": "Bombora"
+    },
+    {
+      "src": "/images/hotel/photo-02.jpg",
+      "alt": "Bombora - Photo 2",
+      "caption": "Bombora - Vue 2"
+    },
+    {
+      "src": "/images/hotel/photo-03.jpg",
+      "alt": "Bombora - Photo 3",
+      "caption": "Bombora - Vue 3"
+    },
+    {
+      "src": "/images/hotel/photo-04.jpg",
+      "alt": "Bombora - Photo 4",
+      "caption": "Bombora - Vue 4"
+    },
+    {
+      "src": "/images/hotel/photo-05.jpg",
+      "alt": "Bombora - Photo 5",
+      "caption": "Bombora - Vue 5"
+    },
+    {
+      "src": "/images/hotel/photo-06.jpg",
+      "alt": "Bombora - Photo 6",
+      "caption": "Bombora - Vue 6"
+    },
+    {
+      "src": "/images/hotel/photo-07.jpg",
+      "alt": "Bombora - Photo 7",
+      "caption": "Bombora - Vue 7"
+    },
+    {
+      "src": "/images/hotel/photo-08.jpg",
+      "alt": "Bombora - Photo 8",
+      "caption": "Bombora - Vue 8"
+    },
+    {
+      "src": "/images/hotel/photo-09.jpg",
+      "alt": "Bombora - Photo 9",
+      "caption": "Bombora - Vue 9"
+    },
+    {
+      "src": "/images/hotel/photo-10.jpg",
+      "alt": "Bombora - Photo 10",
+      "caption": "Bombora - Vue 10"
+    }
+  ]
+}

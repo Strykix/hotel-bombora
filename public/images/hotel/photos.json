@@ -1,0 +1,76 @@
+{
+  "hotel_name": "Bombora",
+  "city": "Hiriketiya",
+  "photos": [
+    {
+      "filename": "photo-01.jpg",
+      "path": "/images/hotel/photo-01.jpg",
+      "index": 0,
+      "size_kb": 1023
+    },
+    {
+      "filename": "photo-02.jpg",
+      "path": "/images/hotel/photo-02.jpg",
+      "index": 1,
+      "size_kb": 304
+    },
+    {
+      "filename": "photo-03.jpg",
+      "path": "/images/hotel/photo-03.jpg",
+      "index": 2,
+      "size_kb": 211
+    },
+    {
+      "filename": "photo-04.jpg",
+      "path": "/images/hotel/photo-04.jpg",
+      "index": 3,
+      "size_kb": 324
+    },
+    {
+      "filename": "photo-05.jpg",
+      "path": "/images/hotel/photo-05.jpg",
+      "index": 4,
+      "size_kb": 219
+    },
+    {
+      "filename": "photo-06.jpg",
+      "path": "/images/hotel/photo-06.jpg",
+      "index": 5,
+      "size_kb": 19
+    },
+    {
+      "filename": "photo-07.jpg",
+      "path": "/images/hotel/photo-07.jpg",
+      "index": 6,
+      "size_kb": 174
+    },
+    {
+      "filename": "photo-08.jpg",
+      "path": "/images/hotel/photo-08.jpg",
+      "index": 7,
+      "size_kb": 276
+    },
+    {
+      "filename": "photo-09.jpg",
+      "path": "/images/hotel/photo-09.jpg",
+      "index": 8,
+      "size_kb": 221
+    },
+    {
+      "filename": "photo-10.jpg",
+      "path": "/images/hotel/photo-10.jpg",
+      "index": 9,
+      "size_kb": 218
+    }
+  ],
+  "place_info": {
+    "name": "Bombora",
+    "address": "Hirikeitya Beach, Hiriketiya Rd, Dikwella 81200, Sri Lanka",
+    "rating": 4.5,
+    "reviews_count": 44,
+    "phone": "077 280 6870",
+    "website": null,
+    "place_id": "ChIJT71nUko34ToRL4HuTfysE_s"
+  },
+  "error": null
+}
